@@ -1,0 +1,11 @@
+{
+	"EpicCharacter_C": {
+		"playerHealth": null,
+		"sprintSpeed": null,
+		"jumpVelocity": [ 100, 2000 ],
+		"halfHeight": [10,500],
+		"radius": null,
+		"walkSpeed": [ 100, 800 ]
+
+	}
+}
